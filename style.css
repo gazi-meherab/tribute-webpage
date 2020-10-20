@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+    background-color: rgba(19, 253, 253, 0.144);
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+#contain-image {
+    width: 100%;
+    margin-top: 10px;
+}
+
+#contain-image img {
+    width: 85%;
+}
